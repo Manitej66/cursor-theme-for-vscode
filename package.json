@@ -1,7 +1,7 @@
 {
   "name": "cursor-theme",
   "displayName": "cursor theme",
-  "description": "clone of cursor default theme for vsscode",
+  "description": "clone of cursor default theme for vscode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.0"
@@ -17,5 +17,8 @@
         "path": "./themes/cursor theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/Manitej66/cursor-theme-for-vscode"
   }
 }
