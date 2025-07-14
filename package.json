@@ -1,8 +1,8 @@
 {
   "name": "cursor-midnight-theme",
-  "displayName": "cursor midnight theme",
+  "displayName": "cursor theme",
   "description": "clone of cursor default theme for vscode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.102.0"
   },
@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "cursor theme",
+        "label": "cursor midnight theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/cursor theme-color-theme.json"
+        "path": "./themes/midnight.json"
+      },
+      {
+        "label": "cursor anysphere theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anysphere.json"
       }
     ]
   },
