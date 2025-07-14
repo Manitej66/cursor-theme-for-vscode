@@ -1,5 +1,5 @@
 {
-  "name": "cursor-theme",
+  "name": "cursor-midnight-theme",
   "displayName": "cursor theme",
   "description": "clone of cursor default theme for vscode",
   "version": "0.0.1",
@@ -20,5 +20,6 @@
   },
   "repository": {
     "url": "https://github.com/Manitej66/cursor-theme-for-vscode"
-  }
+  },
+  "publisher": "ManitejaPratha"
 }
